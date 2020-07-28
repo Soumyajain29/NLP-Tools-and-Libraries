@@ -6,15 +6,18 @@ References Links:
 
 For NLTK-
 http://www.nltk.org/book/
+
 http://textminingonline.com/dive-into-nltk-part-i-getting-started-with-nltk
 
 
 For Stanford Core NLP-
 https://stanfordnlp.github.io/CoreNLP/
+
 https://stanfordnlp.github.io/CoreNLP/other-languages.html
 
 For SpaCy-
 https://spacy.io/docs/
+
 https://nicschrading.com/project/Intro-to-NLP-with-spaCy/
 
 For Gensim-
@@ -23,6 +26,7 @@ https://radimrehurek.com/gensim/auto_examples/index.html
 
 For TextBlob-
 https://textblob.readthedocs.io/en/dev/quickstart.html
+
 http://rwet.decontextualize.com/book/textblob/
 
 
